@@ -1,0 +1,1 @@
+const ActionCable = require('actioncable');
